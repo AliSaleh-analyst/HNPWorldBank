@@ -1,0 +1,9 @@
+# Ignore all CSV files (including your 2.3GB+ file)
+*.csv
+
+# Ignore all Excel files
+*.xlsx
+*.xls
+
+# Ignore the heavy Power BI data file
+*.pbix
